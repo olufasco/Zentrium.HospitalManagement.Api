@@ -1,6 +1,5 @@
 ﻿using Zentrium.HospitalManagement.Api.Models;
-
-namespace Zentrum.HospitalManagement.Api.Models
+namespace Zentrium.HospitalManagement.Api.Models
     {
         public class Bed : BaseEntity
         {

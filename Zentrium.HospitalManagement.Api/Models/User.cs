@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
-namespace Zentrum.HospitalManagement.Api.Models
+namespace Zentrium.HospitalManagement.Api.Models
 { 
     public class User : IdentityUser
             {
