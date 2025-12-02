@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,48 +27,8 @@
       "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\labreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\labreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\vitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\vitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\hmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\hmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,12 +39,76 @@
       "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\bed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\hmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\hmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\labreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\labreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\vital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\vital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|c:\\users\\user\\source\\repos\\zentrium.hospitalmanagement.api\\zentrium.hospitalmanagement.api\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E034CFC8-51F6-4F9E-AEE9-D7AA61DE90EB}|Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj|solutionrelative:zentrium.hospitalmanagement.api\\models\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,8 +118,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Program.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:23:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\appsettings.json",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T11:22:42.529Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -153,12 +207,73 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Medicine.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:10:01.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:38:05.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Visit.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:34:19.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Nurse.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Nurse.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Nurse.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:31:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Doctor.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:31:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Billing.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Billing.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Billing.cs",
@@ -166,11 +281,12 @@
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Billing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:50:40.992Z"
+              "WhenOpened": "2025-12-02T09:50:40.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Patient.cs",
@@ -178,101 +294,103 @@
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:33:23.017Z"
+              "WhenOpened": "2025-12-02T09:33:23.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\User.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\User.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:27:49.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "HMO.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\HMO.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\HMO.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\HMO.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\HMO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:27:29.738Z"
+              "WhenOpened": "2025-12-02T09:27:29.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vitals.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Vitals.cs",
-              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Vitals.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Vitals.cs",
-              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Vitals.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Vital.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Vital.cs",
+              "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Vital.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Vital.cs",
+              "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Vital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:26:52.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Department.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:26:30.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Hospital.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Hospital.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Hospital.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Hospital.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Hospital.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:26:16.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Description.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Description.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Description.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Description.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Description.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:25:49.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Diagnosis.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Diagnosis.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Diagnosis.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Diagnosis.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Diagnosis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:25:21.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Appointment.cs",
@@ -280,23 +398,25 @@
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:25:08.237Z"
+              "WhenOpened": "2025-12-02T09:25:08.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Staff.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Staff.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Staff.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Staff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:24:55.922Z"
+              "WhenOpened": "2025-12-02T09:24:55.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MedicalRecord.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\MedicalRecord.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\MedicalRecord.cs",
@@ -304,85 +424,90 @@
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\MedicalRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:24:09.762Z"
+              "WhenOpened": "2025-12-02T09:24:09.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Ward.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Ward.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Ward.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Ward.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Ward.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:23:33.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Payment.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Payment.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:23:12.088Z"
+              "WhenOpened": "2025-12-02T09:23:12.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Receptionist.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Receptionist.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Receptionist.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Receptionist.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Receptionist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:22:46.701Z"
+              "WhenOpened": "2025-12-02T09:22:46.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Pharmacy.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Pharmacy.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Pharmacy.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Pharmacy.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Pharmacy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:22:31.606Z"
+              "WhenOpened": "2025-12-02T09:22:31.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "LabReport.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\LabReport.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\LabReport.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\LabReport.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\LabReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T09:22:15.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "Bed.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Bed.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\Bed.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\Bed.cs",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Models\\Bed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:20:13.824Z"
+              "WhenOpened": "2025-12-02T09:20:13.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Models\\BaseEntity.cs",
@@ -395,15 +520,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
               "Title": "Zentrium.HospitalManagement.Api.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj",
               "RelativeDocumentMoniker": "Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj",
               "RelativeToolTip": "Zentrium.HospitalManagement.Api\\Zentrium.HospitalManagement.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-02T09:17:14.75Z"
+              "WhenOpened": "2025-12-02T09:17:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

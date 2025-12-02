@@ -1,4 +1,4 @@
-﻿using Zentrum.HospitalManagement.Api.Models;
+﻿using Zentrium.HospitalManagement.Api.Models;
 
 namespace Zentrium.HospitalManagement.Api.Models
 {
@@ -8,5 +8,7 @@ namespace Zentrium.HospitalManagement.Api.Models
         public string Location { get; set; } = string.Empty;
         public int Capacity { get; set; } 
         public ICollection<Bed> Beds { get; set; } = new List<Bed>();
+        public ICollection<Staff> StaffMembers { get; set; } = new List<Staff>();
+
     }
 }
